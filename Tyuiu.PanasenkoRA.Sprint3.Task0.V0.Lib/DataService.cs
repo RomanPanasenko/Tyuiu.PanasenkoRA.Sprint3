@@ -13,6 +13,7 @@ namespace Tyuiu.PanasenkoRA.Sprint3.Task0.V0.Lib
         {
             double MS = 0;
             int i;
+
             for (i = startValue; i <= stopValue; i++)
             {
                 MS = MS + (i / (Math.Pow((Math.Sin(1)), -10)));

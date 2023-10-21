@@ -28,6 +28,7 @@ namespace Tyuiu.PanasenkoRA.Sprint3.Task0.V0
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
+
             int startValue = 1;
             int stopValue = 20;
             Console.WriteLine("Старт шага = " + startValue);

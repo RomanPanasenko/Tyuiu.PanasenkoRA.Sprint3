@@ -11,6 +11,7 @@ namespace Tyuiu.PanasenkoRA.Sprint3.Task0.V0.Test
         public void ValidGetMultiplySeries()
         {
             DataService ds = new DataService();
+
             int startValue = 1;
             int stopValue = 20;
             double res = ds.GetMultiplySeries(startValue, stopValue);
